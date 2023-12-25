@@ -1,0 +1,38 @@
+.addimage {
+
+    background-image: url("https://i.ibb.co/DVSgdbp/restored-home-2416189-1280.jpghttps://i.ibb.co/mCDtLxc/home-2409004-1280.jpg");
+    height: 950px;
+    background-size: cover;
+    background-position: top;
+    object-fit: cover;
+    opacity: 9;
+
+}
+
+
+
+.adder {
+
+
+    transition: all 2s;
+}
+
+.adder:hover {
+  
+    transition: all 1s;
+    animation: mymove 1s;
+  
+}
+
+
+@keyframes mymove {
+    0%   {
+        transform: (0deg);
+    }
+    50%  {transform: rotate(20deg);}
+    100%  {transform: rotate(0deg);}
+
+
+  }
+
+ 

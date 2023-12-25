@@ -1,0 +1,161 @@
+[
+    {
+      "productTitle": "Cozy Urban Apartment",
+      "productId": "P001",
+      "productImage": ["https://i.ibb.co/6yJGwMX/25.jpg", "https://i.ibb.co/mHx03jH/23.jpg"],
+      "productLocation": "City Center, New York",
+      "productOverview": "Modern apartment in a prime location with stunning views.",
+      "lotDimensions": "N/A",
+      "productType": "Apartment",
+      "homeArea": "1200 sq. ft.",
+      "lotArea": "N/A",
+      "rooms": 3,
+      "beds": 2,
+      "baths": 2,
+      "garages": 1,
+      "perMonth": 2590,
+      "yearBuilt": 2011,
+      "status": "For Sale",
+      "attachments": ["est_property.docx", "est_property.docx"],
+      "amenities": [
+        "Swimming Pool",
+        "Gym",
+        "Concierge Service"
+      ],
+      "materials": [
+        "Hardwood Floors",
+        "Granite Countertops",
+        "Stainless Steel Appliances"
+      ],
+      "floorPlans": [
+        {
+          "image": "https://example.com/floorplan_image.jpg",
+          "shortDescription": "Open layout with spacious rooms and ample natural light."
+        }
+      ],
+
+
+      "review" : {"name": "rakib", 
+      "reviewEmail": "goopd333@gmail.com", "comment": "nice"}
+    },
+
+    {
+      "productTitle": "Cozy Urban Apartment",
+      "productId": "P002",
+      "productImage": ["https://i.ibb.co/z568gnk/24.jpg", "https://i.ibb.co/tMJ6ZN1/22.jpg"],
+      "productLocation": "City Center, New York",
+      "productOverview": "Modern apartment in a prime location with stunning views.",
+      "lotDimensions": "N/A",
+      "productType": "Condo",
+      "homeArea": "1200 sq. ft.",
+      "lotArea": "N/A",
+      "rooms": 3,
+      "beds": 2,
+      "baths": 2,
+      "garages": 1,
+      "perMonth": 250,
+      "yearBuilt": 2016,
+      "status": "For Sale",
+      "attachments": ["est_property.docx", "est_property.docx"],
+      "amenities": [
+        "Swimming Pool",
+        "Gym",
+        "Concierge Service"
+      ],
+      "materials": [
+        "Hardwood Floors",
+        "Granite Countertops",
+        "Stainless Steel Appliances"
+      ],
+      "floorPlans": [
+        {
+          "image": "https://example.com/floorplan_image.jpg",
+          "shortDescription": "Open layout with spacious rooms and ample natural light."
+        }
+      ],
+
+
+      "review" : {"name": "rakib", 
+      "reviewEmail": "goopd333@gmail.com", "comment": "nice"}
+    },
+    {
+      "productTitle": "Cozy Urban Apartment",
+      "productId": "P005",
+      "productImage": ["https://i.ibb.co/6yJGwMX/25.jpg", "https://i.ibb.co/mHx03jH/23.jpg"],
+      "productLocation": "City Center, New York",
+      "productOverview": "Modern apartment in a prime location with stunning views.",
+      "lotDimensions": "N/A",
+      "productType": "Family House",
+      "homeArea": "1200 sq. ft.",
+      "lotArea": "N/A",
+      "rooms": 3,
+      "beds": 2,
+      "baths": 2,
+      "garages": 1,
+      "perMonth": 2530,
+      "yearBuilt": 2012,
+      "status": "For Sale",
+      "attachments": ["est_property.docx", "est_property.docx"],
+      "amenities": [
+        "Swimming Pool",
+        "Gym",
+        "Concierge Service"
+      ],
+      "materials": [
+        "Hardwood Floors",
+        "Granite Countertops",
+        "Stainless Steel Appliances"
+      ],
+      "floorPlans": [
+        {
+          "image": "https://example.com/floorplan_image.jpg",
+          "shortDescription": "Open layout with spacious rooms and ample natural light."
+        }
+      ],
+
+
+      "review" : {"name": "rakib", 
+      "reviewEmail": "goopd333@gmail.com", "comment": "nice"}
+    },
+    {
+      "productTitle": "Cozy Urban Apartment",
+      "productId": "P007",
+      "productImage": ["https://i.ibb.co/6yJGwMX/25.jpg", "https://i.ibb.co/mHx03jH/23.jpg"],
+      "productLocation": "City Center, New York",
+      "productOverview": "Modern apartment in a prime location with stunning views.",
+      "lotDimensions": "N/A",
+      "productType": "Apartment",
+      "homeArea": "1200 sq. ft.",
+      "lotArea": "N/A",
+      "rooms": 3,
+      "beds": 2,
+      "baths": 2,
+      "garages": 1,
+      "perMonth": 2590,
+      "yearBuilt": 2015,
+      "status": "For Sale",
+      "attachments": ["est_property.docx", "est_property.docx"],
+      "amenities": [
+        "Swimming Pool",
+        "Gym",
+        "Concierge Service"
+      ],
+      "materials": [
+        "Hardwood Floors",
+        "Granite Countertops",
+        "Stainless Steel Appliances"
+      ],
+      "floorPlans": [
+        {
+          "image": "https://example.com/floorplan_image.jpg",
+          "shortDescription": "Open layout with spacious rooms and ample natural light."
+        }
+      ],
+
+
+      "review" : {"name": "rakib", 
+      "reviewEmail": "goopd333@gmail.com", "comment": "nice"}
+    }
+    
+  ]
+  

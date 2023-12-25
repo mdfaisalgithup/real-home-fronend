@@ -1,0 +1,67 @@
+
+.rightMenu a:hover {
+
+    color: orangered;
+}
+
+.rightZero .linkStyle a:hover {
+ color: orangered;
+
+}
+.mainNavbar {
+
+    display: flex;
+    justify-content:  space-between;
+    align-items: center;
+}
+.mainNavbar .rightMenu {
+
+    gap: 30px;
+    display: flex;
+}
+
+
+.mainNavbar .rightMenuStyle {
+
+    display: flex;
+    gap: 20px;
+    
+}.mainNavbar .rightZero {
+
+    display: flex;
+    gap:10px;
+
+}
+.mainNavbar .leftBorderStyle {
+
+    border-left: 2px solid #ddd;
+    margin: 0px 10px;
+}.mainNavbar .iconStyle {
+
+    font-size: 25px;
+}
+
+@media only screen and (max-width: 1224px) {
+
+.mainNavbar {
+flex-direction: column;
+}
+
+.mainNavbar .rightMenu {
+
+    margin: 10px 0;
+}
+
+.mainNavbar .rightMenuStyle {
+
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 0px;
+
+}
+
+
+
+
+}
